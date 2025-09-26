@@ -9,9 +9,5 @@
  */
 
 rootProject.name = 'order-management-uservice'
-//include 'app'
-//include 'dao'
-//include 'postgres-dao'
-//include 'authz-config'
 include 'app'
 
